@@ -5,5 +5,7 @@ math = true
 +++
 
 ### The Gnome Mapping Issue
-This is the first time I used the $\sum_{n=0}^m a^n$ in this site, this shows as below:
-$$a^*=x-b^*$$
+This is the first time I used the $\sum_{n=0}^m a^n$ in this site, which is a major sentence and this could be shown as below:
+$$
+\sum_{n=0}^m a^n = t
+$$

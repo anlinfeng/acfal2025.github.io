@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My Github Page</title>
-    <link>https://acfal2025.github.io/posts/</link>
-    <description>Recent content in Posts on My Github Page</description>
+    <title>Posts on Bioinformatics Site</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Bioinformatics Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://acfal2025.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Jul 2025 12:31:15 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gnome Mapping</title>
+      <link>http://localhost:1313/posts/gnome_mapping/</link>
+      <pubDate>Fri, 11 Jul 2025 12:31:15 -0400</pubDate>
+      <guid>http://localhost:1313/posts/gnome_mapping/</guid>
+      <description>&lt;h3 id=&#34;the-gnome-mapping-issue&#34;&gt;The Gnome Mapping Issue&lt;/h3&gt;&#xA;&lt;p&gt;This is the first time I used the $\sum_{n=0}^m a^n$ in this site, which is a major sentence and this could be shown as below:&#xA;$$&#xA;\sum_{n=0}^n a_{n} &amp;amp;= b&#xA;\boldsymbol{x}&lt;em&gt;{i+1}+\boldsymbol{x}&lt;/em&gt;{i+2} &amp;amp;= \boldsymbol{x}_{i+3}&#xA;$$&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Thu, 10 Jul 2025 23:32:38 -0400</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;the-first-post&#34;&gt;The first post&lt;/h1&gt;&#xA;&lt;h2 id=&#34;chapter-one&#34;&gt;Chapter One&lt;/h2&gt;&#xA;&lt;p&gt;I want to post this blog for writing my first blog during this time.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
