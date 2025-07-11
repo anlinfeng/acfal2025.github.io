@@ -1,6 +1,7 @@
 +++
 date = '2025-07-11T12:31:15-04:00'
 title = 'Gnome Mapping'
+math = true
 +++
 
 ### The Gnome Mapping Issue
