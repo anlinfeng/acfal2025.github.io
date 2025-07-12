@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tech on Sites for Collecting Thoughts and Information</title>
+        <link>http://localhost:1313/tags/tech/</link>
+        <description>Recent content in Tech on Sites for Collecting Thoughts and Information</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sat, 12 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/tech/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>The workflow for single-cell RNA sequencing analysis</title>
+        <link>http://localhost:1313/posts/first-post/</link>
+        <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/first-post/</guid>
+        <description>&lt;img src="http://localhost:1313/posts/first-post/bioinfor.png" alt="Featured image of post The workflow for single-cell RNA sequencing analysis" /&gt;&lt;h2 id=&#34;chaper-one&#34;&gt;Chaper One
+&lt;/h2&gt;&lt;h3 id=&#34;the-introduction&#34;&gt;The introduction
+&lt;/h3&gt;&lt;p&gt;The $\sum_{i=0}^{n} a^{i}$ is the method we want to use in this object, and make it as a matrix int his study:
+$$\sum_{i=0}^N\int_{a}^{b}g(t, i)\text{d}t$$&lt;/p&gt;
+&lt;p&gt;$$
+f(x) = \int_{-\infty}^\infty\hat f(\xi),e^{2 \pi i \xi x},d\xi
+$$&lt;/p&gt;
+&lt;p&gt;$$a=\sqrt{s_{n}}+\sqrt{s}$$
+$$b=\sqrt{s_{n}}-\sqrt{s}$$
+$$\sqrt{s_{n}}-\sqrt{s}=\frac{a-b}{a}=\frac{s_{n}-s}{a}$$&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
