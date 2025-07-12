@@ -1,26 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Bioinformatics Site</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Bioinformatics Site</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 11 Jul 2025 12:31:15 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Genome Mapping</title>
-      <link>http://localhost:1313/posts/gnome_mapping/</link>
-      <pubDate>Fri, 11 Jul 2025 12:31:15 -0400</pubDate>
-      <guid>http://localhost:1313/posts/gnome_mapping/</guid>
-      <description>&lt;p&gt;This is the first time I used the $\sum_{n=0}^m a^n$ in this site, which is a major sentence and this could be shown as below:&#xA;$$&#xA;\sum_{n=0}^m a^n = t&#xA;$$&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.glorywaves.org/wp-content/uploads/2022/12/Sunrise-stock-photo.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Thu, 10 Jul 2025 23:32:38 -0400</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h1 id=&#34;the-first-post&#34;&gt;The first post&lt;/h1&gt;&#xA;&lt;h2 id=&#34;chapter-one&#34;&gt;Chapter One&lt;/h2&gt;&#xA;&lt;p&gt;I want to post this blog for writing my first blog during this time.&lt;/p&gt;</description>
-    </item>
-  </channel>
+    <channel>
+        <title>Posts on Example Site</title>
+        <link>http://localhost:1313/posts/</link>
+        <description>Recent content in Posts on Example Site</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Sat, 12 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Rich Content</title>
+        <link>http://localhost:1313/posts/first-post/</link>
+        <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/first-post/</guid>
+        <description>&lt;img src="http://localhost:1313/posts/first-post/spring.jpeg" alt="Featured image of post Rich Content" /&gt;&lt;h2 id=&#34;chaper-one&#34;&gt;Chaper One
+&lt;/h2&gt;&lt;h3 id=&#34;the-image&#34;&gt;The Image
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/first-post/sunrise.jpeg&#34;
+	width=&#34;1182&#34;
+	height=&#34;665&#34;
+	srcset=&#34;http://localhost:1313/posts/first-post/sunrise_hu_31b1f1dea73b8054.jpeg 480w, http://localhost:1313/posts/first-post/sunrise_hu_627c3ffb18b0e007.jpeg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Sunrise&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;the-introduction&#34;&gt;The introduction
+&lt;/h3&gt;&lt;p&gt;The $\sum_{i=0}^{n} a^{i}$ is the method we want to use in this object, and make it as a matrix int his study:
+$$\sum_{i=0}^N\int_{a}^{b}g(t, i)\text{d}t$$&lt;/p&gt;
+&lt;p&gt;$$
+f(x) = \int_{-\infty}^\infty\hat f(\xi),e^{2 \pi i \xi x},d\xi
+$$&lt;/p&gt;
+&lt;p&gt;$$a=\sqrt{s_{n}}+\sqrt{s}$$
+$$b=\sqrt{s_{n}}-\sqrt{s}$$
+$$\sqrt{s_{n}}-\sqrt{s}=\frac{a-b}{a}=\frac{s_{n}-s}{a}$$&lt;/p&gt;
+&lt;h3 id=&#34;coding-method&#34;&gt;Coding method
+&lt;/h3&gt;&lt;p&gt;The code shows as below:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-cpp&#34; data-lang=&#34;cpp&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;#include&lt;/span&gt; &lt;span class=&#34;cpf&#34;&gt;&amp;lt;iostream&amp;gt;&lt;/span&gt;&lt;span class=&#34;cp&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;using&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;namespace&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;std&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+        </item>
+        
+    </channel>
 </rss>
