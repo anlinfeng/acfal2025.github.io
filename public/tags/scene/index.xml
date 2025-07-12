@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scene on Bioinformatics Site</title>
+    <link>http://localhost:1313/tags/scene/</link>
+    <description>Recent content in Scene on Bioinformatics Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Jul 2025 12:31:15 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Genome Mapping</title>
+      <link>http://localhost:1313/posts/gnome_mapping/</link>
+      <pubDate>Fri, 11 Jul 2025 12:31:15 -0400</pubDate>
+      <guid>http://localhost:1313/posts/gnome_mapping/</guid>
+      <description>&lt;p&gt;This is the first time I used the $\sum_{n=0}^m a^n$ in this site, which is a major sentence and this could be shown as below:&#xA;$$&#xA;\sum_{n=0}^m a^n = t&#xA;$$&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.glorywaves.org/wp-content/uploads/2022/12/Sunrise-stock-photo.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
