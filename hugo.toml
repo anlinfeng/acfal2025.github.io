@@ -9,7 +9,6 @@ enable = true
 [author]
 name = "Anlin Feng"
 bio = "I write about tech, life, and science."
-avatar = "img/sunrise.jpeg"
 
 [menu]
 [[menu.main]]

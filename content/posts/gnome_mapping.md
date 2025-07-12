@@ -8,3 +8,5 @@ This is the first time I used the $\sum_{n=0}^m a^n$ in this site, which is a ma
 $$
 \sum_{n=0}^m a^n = t
 $$
+
+![](https://www.glorywaves.org/wp-content/uploads/2022/12/Sunrise-stock-photo.jpg)
