@@ -3,7 +3,7 @@ author = "Anlin Feng"
 title = "Is the Biomarkers Really Good for Survival Prediction or not"
 date = "2025-07-12"
 description = "A brief introduction of prognostic biomarkers"
-image = "view.jpeg"
+image = "ab4.jpg"
 tags = [
     "papers",
     "science",

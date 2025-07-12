@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Categories on Sites for Collecting Thoughts and Information</title>
+        <title>Categories on Sites for Collecting Thoughts and Information from Anlin</title>
         <link>https://anlinfeng.github.io/categories/</link>
-        <description>Recent content in Categories on Sites for Collecting Thoughts and Information</description>
+        <description>Recent content in Categories on Sites for Collecting Thoughts and Information from Anlin</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language><atom:link href="https://anlinfeng.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     </channel>
