@@ -1,10 +1,9 @@
 +++
 date = '2025-07-11T12:31:15-04:00'
-title = 'Gnome Mapping'
+title = 'Genome Mapping'
 math = true
 +++
 
-### The Gnome Mapping Issue
 This is the first time I used the $\sum_{n=0}^m a^n$ in this site, which is a major sentence and this could be shown as below:
 $$
 \sum_{n=0}^m a^n = t
