@@ -2,26 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Papers on Sites for Collecting Thoughts and Information</title>
-        <link>http://localhost:1313/tags/papers/</link>
+        <link>https://anlinfeng.github.io/tags/papers/</link>
         <description>Recent content in Papers on Sites for Collecting Thoughts and Information</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 12 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/papers/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>The workflow for single-cell RNA sequencing analysis</title>
-        <link>http://localhost:1313/posts/first-post/</link>
+        <lastBuildDate>Sat, 12 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://anlinfeng.github.io/tags/papers/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Is the Biomarkers Really Good for Survival Prediction or not</title>
+        <link>https://anlinfeng.github.io/posts/post-two/</link>
         <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/posts/first-post/</guid>
-        <description>&lt;img src="http://localhost:1313/posts/first-post/bioinfor.png" alt="Featured image of post The workflow for single-cell RNA sequencing analysis" /&gt;&lt;h2 id=&#34;chaper-one&#34;&gt;Chaper One
-&lt;/h2&gt;&lt;h3 id=&#34;the-introduction&#34;&gt;The introduction
-&lt;/h3&gt;&lt;p&gt;The $\sum_{i=0}^{n} a^{i}$ is the method we want to use in this object, and make it as a matrix int his study:
-$$\sum_{i=0}^N\int_{a}^{b}g(t, i)\text{d}t$$&lt;/p&gt;
-&lt;p&gt;$$
-f(x) = \int_{-\infty}^\infty\hat f(\xi),e^{2 \pi i \xi x},d\xi
-$$&lt;/p&gt;
-&lt;p&gt;$$a=\sqrt{s_{n}}+\sqrt{s}$$
-$$b=\sqrt{s_{n}}-\sqrt{s}$$
-$$\sqrt{s_{n}}-\sqrt{s}=\frac{a-b}{a}=\frac{s_{n}-s}{a}$$&lt;/p&gt;
+        <guid>https://anlinfeng.github.io/posts/post-two/</guid>
+        <description>&lt;img src="https://anlinfeng.github.io/posts/post-two/view.jpeg" alt="Featured image of post Is the Biomarkers Really Good for Survival Prediction or not" /&gt;&lt;h2 id=&#34;definitions-and-history&#34;&gt;Definitions and History
+&lt;/h2&gt;&lt;p&gt;Several factors influence a patient’s survival outcome, including intrinsic characteristics of the patient, the disease or medical condition, and the direct or indirect effects of any treatments received. Some of these intrinsic characteristics can be represented as prognostic biomarkers, which are used to identify the likelihood of clinical events, disease recurrence, or progression in patients with the disease or medical condition of interest. Others can be predictive biomarkers, i.e., biomarkers used to identify individuals who are more likely than similar individuals without the biomarker to experience a favorable or unfavorable effect from exposure to a medical product or an environmental agent.&lt;/p&gt;
+&lt;h2 id=&#34;technology-used-for-biomarker-discovery&#34;&gt;Technology Used for Biomarker Discovery
+&lt;/h2&gt;&lt;h2 id=&#34;traditional-biomarkers&#34;&gt;Traditional Biomarkers
+&lt;/h2&gt;&lt;p&gt;Traditional prognostic indicators in cancer include tumor size, staging, lymph node metastasis status, and the presence of cancer cells in multiple distant lymph nodes. These factors often correlate with a poor prognosis.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>The workflow for single-cell RNA sequencing analysis</title>
+        <link>https://anlinfeng.github.io/posts/first-post/</link>
+        <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://anlinfeng.github.io/posts/first-post/</guid>
+        <description>&lt;img src="https://anlinfeng.github.io/posts/first-post/bioinfor.png" alt="Featured image of post The workflow for single-cell RNA sequencing analysis" /&gt;&lt;h2 id=&#34;experimental-procedure-of-scrna-seq&#34;&gt;Experimental Procedure of scRNA-seq
+&lt;/h2&gt;&lt;p&gt;Single-cell RNA sequencing (scRNA-seq) technology, pioneered by Tang et al. in 2009, offers a novel approach to elucidating the heterogeneity of RNA transcripts within individual cells. Furthermore, it enables the identification of the composition of distinct cell types and their associated functions within tissues or organs across various diseases.&lt;/p&gt;
+&lt;p&gt;The scRNA-seq technology sequenced the transcriptome of single cells, opening a new avenue to scale up the number of cells and merging high-throughput RNA sequencing technology. By skipping all wet lab steps used in scRNA-seq, we directly proceed to generating single-cell-barcoded cDNAs from single cells or single nuclei. Subsequently, the cDNA can be sequenced using various deep sequencing platforms. Currently, popular platforms include 10x Genomics Chromium, Fluidigm C1, Drop-seq, and Smart-seq2.&lt;/p&gt;
+&lt;h2 id=&#34;data-preprocessing&#34;&gt;Data Preprocessing
+&lt;/h2&gt;&lt;p&gt;The fundamental formats of raw sequencing data obtained from sequencing platforms, such as FASTQ and BCL formats, are utilized for single-cell transcriptome analysis. These formats are dependent on the data source and sequencing platform. Since only FASTQ files can be directly employed for quality control, the initial step in processing raw data is to convert them to FASTQ format using appropriate tools.&lt;/p&gt;
 </description>
         </item>
         
