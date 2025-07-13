@@ -42,7 +42,7 @@ params:
     lastUpdated: Jul 12, 2025 10:16 MST
 
   sidebar:
-    emoji: 🍥
+    emoji:
     subtitle: Nothing to show.
     avatar:
       enabled: true
