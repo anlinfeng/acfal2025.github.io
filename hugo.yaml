@@ -1,7 +1,7 @@
 baseurl: https://anlinfeng.github.io
 languageCode: en-us
 theme: hugo-theme-stack
-title: Sites for Collecting Thoughts and Information from Anlin
+title: Anlin's Blog
 
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
@@ -43,7 +43,7 @@ params:
 
   sidebar:
     emoji:
-    subtitle: Nothing to show.
+    subtitle: A blog for collecting thoughts
     avatar:
       enabled: true
       local: true
