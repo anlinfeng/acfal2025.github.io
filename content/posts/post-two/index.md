@@ -17,4 +17,4 @@ Several factors influence a patient’s survival outcome, including intrinsic ch
 
 ## Technology Used for Biomarker Discovery
 ### Traditional Biomarkers
-Traditional prognostic indicators in cancer include tumor size, staging, lymph node metastasis status, and the presence of cancer cells in multiple distant lymph nodes. These factors often correlate with a poor prognosis.
+Traditional prognostic indicators in cancer include tumor size, staging, lymph node metastasis status, and the presence of cancer cells in multiple distant lymph nodes. These factors often correlate with a poor prognosis. The nned for discovering a biomarker based on the gene expression levels are highly needed for current study.
